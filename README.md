@@ -52,12 +52,4 @@ And after goding to project dirctory run html file
 
 - Good understanding of css
 - CSS code reusablity
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
