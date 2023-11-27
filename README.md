@@ -23,11 +23,11 @@ As we know that hulu is a platform like netflix which host the TV shows on their
 
 ## Screenshots
 
-![App Screenshot](![Alt text](<images/Screenshot 2023-11-27 080633.png>))
-![App Screenshot](![Alt text](<images/Screenshot 2023-11-27 080648.png>))
-![App Screenshot](![Alt text](<images/Screenshot 2023-11-27 080659.png>))
-![App Screenshot](![Alt text](<images/Screenshot 2023-11-27 080708.png>))
-![App Screenshot](![Alt text](<images/Screenshot 2023-11-27 080716.png>))
+(![Alt text](<images/Screenshot 2023-11-27 080633.png>))
+(![Alt text](<images/Screenshot 2023-11-27 080648.png>))
+(![Alt text](<images/Screenshot 2023-11-27 080659.png>))
+(![Alt text](<images/Screenshot 2023-11-27 080708.png>))
+(![Alt text](<images/Screenshot 2023-11-27 080716.png>))
 
 
 ## Run Locally
